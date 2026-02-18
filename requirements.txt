@@ -1,0 +1,11 @@
+ipykernel
+IPython
+matplotlib
+pandas
+scapy
+numpy
+plotly
+gensim>=4.0.0
+scikit-learn
+seaborn
+openpyxl
